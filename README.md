@@ -1,4 +1,5 @@
 O documento do projeto pode ser encontrado em: **Guia Local, Uma Aplicação para Catalogação de Estabelecimentos Locais.pdf**
+Os arquivos do APP desenvolvido no Android Studio podem ser encontrados em: **Guia Local - APP Android Studio.zip**
 
 # 📘 Especificações da API Guia\_Local
 
