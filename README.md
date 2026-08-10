@@ -1,3 +1,5 @@
+O documento do projeto pode ser encontrado em: **Guia Local, Uma Aplicação para Catalogação de Estabelecimentos Locais.pdf**
+
 # 📘 Especificações da API Guia\_Local
 
 Para criação do usuário admin, crie o arquivo `seed.ts` na pasta do prisma, seu contedo deve ser:
